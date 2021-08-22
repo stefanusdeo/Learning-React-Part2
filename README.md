@@ -1,3 +1,10 @@
+## Learning React Part 2
+
+paraktek :
+props
+css module
+form validation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
